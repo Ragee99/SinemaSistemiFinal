@@ -1,0 +1,50 @@
+{
+  "salon": "Salon 2 - The Dark Knight -> 152 Dakika",
+  "film": "The Dark Knight",
+  "musteri": {
+    "isim": "Ahmet",
+    "telefonNo": "5552346125"
+  },
+  "koltukNo": 2
+}
+,
+{
+  "salon": "Salon 3 - Titanic -> 195 Dakika",
+  "film": "Titanic",
+  "musteri": {
+    "isim": "Kozlubel",
+    "telefonNo": "5555555555"
+  },
+  "koltukNo": 10
+}
+,
+{
+  "salon": "Salon 2 - The Dark Knight -> 152 Dakika",
+  "film": "The Dark Knight",
+  "musteri": {
+    "isim": "yunus",
+    "telefonNo": "5063530372"
+  },
+  "koltukNo": 1
+}
+,
+{
+  "salon": "Salon 1 - Inception -> 148 Dakika",
+  "film": "Inception",
+  "musteri": {
+    "isim": "ahmet yunus",
+    "telefonNo": "5063530372"
+  },
+  "koltukNo": 1
+}
+,
+{
+  "salon": "Salon 3 - Titanic -> 195 Dakika",
+  "film": "Titanic",
+  "musteri": {
+    "isim": "boü",
+    "telefonNo": "55555555556"
+  },
+  "koltukNo": 2
+}
+,
